@@ -19,7 +19,7 @@ body{
     width: 25%;
     /* height: 220px; */
     text-align: center;
-    background-image: linear-gradient(yellow,green);
+    background-image: linear-gradient(yellow,red);
     border-radius: 2%;
 }
 .box{
